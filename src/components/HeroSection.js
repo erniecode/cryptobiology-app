@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 function HeroSection() {
   return (
     <div className='hero-container'>
-        <video src={eVideo} autoPlay loop muted />
+        <video src={eVideo} autoPlay loop playsInline type="video/mp4" muted/>
         <h1>ADVENTURE AWAITS</h1>
         <p>What are you waiting for?</p>
         <div className='hero-btns'>
