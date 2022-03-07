@@ -24,7 +24,7 @@ let timelineElements = [
       id: 4,
       title: "Oak Ridge College",
       description:
-        "Online Course in Magical Beasts and Wonders of the World - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
+        "Online Course fg in Magical Beasts and Wonders of the World - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
       icon: "uncomplete",
     },
     {
