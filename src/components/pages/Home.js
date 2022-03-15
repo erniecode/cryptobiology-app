@@ -7,12 +7,14 @@ import QA from '../QA';
 import Slider from '../Slider';
 import Team from '../Team';
 import Timeline from '../Timeline';
+import About from '../About';
 
 function Home() {
   return (
     <>
       <HeroSection />
       <Slider />
+      <About />
       <Cards />
       <Team />
       <Timeline />
